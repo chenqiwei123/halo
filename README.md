@@ -28,7 +28,10 @@
 详细部署文档请查阅：<https://docs.halo.run>
 
 ## 在线体验
+**在线运行版本**
+- 环境地址：<https://www.runwsh.com>
 
+**测试环境**
 - 环境地址：<https://demo.halo.run>
 - 后台地址：<https://demo.halo.run/admin>
 - 用户名：demo
