@@ -27,7 +27,7 @@
 
 ## 生态
 
-[GitHub 上开源的 Halo 主题集合halo-theme-\*](https://github.com/topics/halo-theme) 
+[GitHub 上开源的 Halo 主题集合(halo-theme-\*)](https://github.com/topics/halo-theme) 
 
 ## 许可证
 
